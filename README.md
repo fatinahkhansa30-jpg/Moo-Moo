@@ -3,7 +3,7 @@
 
 An exciting **3-lane endless runner** HTML5 game where you help Moo Moo the cow escape from a busy farm!
 
-🎮 **[Play Now →](#)** *(link akan diupdate setelah deploy)*
+🎮 **[Play Now →](#)** *(( https://fatinahkhansa30-jpg.github.io/Moo-Moo/ ))*
 
 ---
 
